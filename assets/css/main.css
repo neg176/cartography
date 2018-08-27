@@ -1403,8 +1403,7 @@
 	body {
 		background-color: #000;
 		background-image: url("../../images/BG.png");
-		background-repeat: repeat-x;
-		background-repeat: repeat-y;
+		background-repeat: repeat;
 		background-size: cover;
 		background-position: top center;
 	}
